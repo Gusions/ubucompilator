@@ -2,6 +2,8 @@
 
 > **A graphical tool that compiles a source tree and packages it as a `.deb`, without touching the terminal.**
 
+> **🛑 Deprecated.** Ubucompilator is no longer developed and will not receive updates. In 2026 you no longer need a tool like this: use [Flathub](https://flathub.org), Snap or your distribution's software center to install apps, and [`dpkg-buildpackage`](https://manpages.debian.org/dpkg-buildpackage), [`fpm`](https://github.com/jordansissel/fpm) or [`checkinstall`](https://wiki.debian.org/CheckInstall) if you need to build a `.deb`. See [Modern alternatives](#modern-alternatives).
+
 ---
 
 ## ⚠️ Historical / archived project
